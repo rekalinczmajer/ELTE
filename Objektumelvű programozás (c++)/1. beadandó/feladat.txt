@@ -1,5 +1,0 @@
-Valósítsa meg az egész számokat tartalmazó halmaz típust! Ábrázolja a halmaz
-elemeit egy sorozatban! Implementálja a szokásos műveleteket (adott elem betevése,
-kivétele, üres-e a halmaz), valamint a halmaz legnagyobb elemének kiválasztását
-(ehhez célszerű a halmazt reprezentáló sorozat mellett külön eltárolni a legnagyobb
-elemet, és ezt karbantartani), továbbá egy halmaz kiírását! 
